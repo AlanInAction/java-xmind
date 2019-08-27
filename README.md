@@ -20,19 +20,19 @@ Java With Xmind，Spring，Shiro，MyBatis，Linux，CSAPP，Assembly Laguage，
 
 ###### 1.1.1 BeanFactory{X}
 
-![BeanFactory](xmind-image/AOPEnhance.png)
+![BeanFactory](xmind-image/BeanFactory.png)
 
 
 
 ###### 1.1.2 BeanDefinitionReader{X}
 
-![BeanDefintionReader](xmind-image/BeanDefinitionReader {X}.png)
+![BeanDefintionReader](xmind-image/BeanDefinitionReader.png)
 
 ###### 1.1.3 ApplicationContext{X}
 
 `ApplicationContext`实现了对BeanFactory的封装，加入了消息机制，环境配置等；
 
-![ApplicationContext](xmind-image/ApplicationContext {X}-Transform.jpg)
+![ApplicationContext](xmind-image/ApplicationContextTransform.jpg)
 
 ##### 1.2 AOP
 
