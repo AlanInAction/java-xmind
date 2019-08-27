@@ -34,7 +34,7 @@ Java With Xmind，Spring，Shiro，MyBatis，Linux，CSAPP，Assembly Laguage，
 
 ![ApplicationContext](xmind-image/ApplicationContextTransform.jpg)
 
-##### 1.2 AOP
+##### 1.2 AOP AutoProxyCreator
 
 ![AOP](xmind-image/AOPEnhance.png)
 
@@ -43,6 +43,16 @@ Java With Xmind，Spring，Shiro，MyBatis，Linux，CSAPP，Assembly Laguage，
 ![SpringBoot-Starter](xmind-image/SpringBoot.png)
 
 #### 2.MyBatis
+
+因为对象关系阻抗不匹配（`object-relational impedance mismatch`），所以需要`ORM`框架
+
+##### 2.1 SqlSessionFactory
+
+![SqlSessionFactory](xmind-image/SqlSessionFactoryTransform1.jpg)
+
+##### 2.2 SqlSession
+
+![SqlSession](xmind-image/SqlSession.png)
 
 #### 3.Shiro
 
@@ -58,9 +68,11 @@ Java With Xmind，Spring，Shiro，MyBatis，Linux，CSAPP，Assembly Laguage，
 
 #### 2.3 CSAPP
 
-### 三、DevOps
+### 三、算法
 
-#### 3.1 Docker运维
+### 四、DevOps
+
+#### 4.1 Docker运维
 
 
 
