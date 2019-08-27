@@ -10,6 +10,8 @@ Java With Xmind，Spring，Shiro，MyBatis，Linux，CSAPP，Assembly Laguage，
 
 因图片显示限制，本文中的Xmind按【框架：模块：类】的层次编辑；
 
+[TOC]
+
 ## Xmind索引
 
 ### 一、Java框架
@@ -34,7 +36,9 @@ Java With Xmind，Spring，Shiro，MyBatis，Linux，CSAPP，Assembly Laguage，
 
 ![ApplicationContext](xmind-image/ApplicationContextTransform.jpg)
 
-##### 1.2 AOP AutoProxyCreator
+##### 1.2 AOP 
+
+`AutoProxyCreator`，实现了`BeanPostProcessor`接口，根据切点`PointCut`匹配对`Bean`进行增强
 
 ![AOP](xmind-image/AOPEnhance.png)
 
@@ -59,6 +63,10 @@ Java With Xmind，Spring，Shiro，MyBatis，Linux，CSAPP，Assembly Laguage，
 `Shiro`为多模块框架，其中核心类`SecurityManager`实现了`Authenticator,Authorizer,SessionManager`接口；
 
 ![ShiroSecurityManager](xmind-image/ShiroSecurityManagerTransform.jpg)
+
+#### 4.Netty
+
+
 
 ### 二、计算机原理
 
