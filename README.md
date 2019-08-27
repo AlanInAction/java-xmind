@@ -46,15 +46,23 @@ Java With Xmind，Spring，Shiro，MyBatis，Linux，CSAPP，Assembly Laguage，
 
 #### 3.Shiro
 
+`Shiro`为多模块框架，其中核心类`SecurityManager`实现了`Authenticator,Authorizer,SessionManager`接口；
+
+![ShiroSecurityManager](xmind-image/ShiroSecurityManagerTransform.jpg)
+
 ### 二、计算机原理
 
-#### 2.1 电路
+#### 2.1 电路逻辑
 
 #### 2.2 汇编语言8086
 
 #### 2.3 CSAPP
 
 ### 三、DevOps
+
+#### 3.1 Docker运维
+
+
 
 
 
