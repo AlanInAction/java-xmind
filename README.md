@@ -20,23 +20,25 @@ Java With Xmind，Spring，Shiro，MyBatis，Linux，CSAPP，Assembly Laguage，
 
 ###### 1.1.1 BeanFactory{X}
 
+![BeanFactory](xmind-image/AOPEnhance.png)
+
 
 
 ###### 1.1.2 BeanDefinitionReader{X}
 
-
+![BeanDefintionReader](xmind-image/BeanDefinitionReader {X}.png)
 
 ###### 1.1.3 ApplicationContext{X}
 
-- 属性
+![BeanDefintionReader](xmind-image/ApplicationContext {X}-Transform.jpg)
 
-- 方法
+##### 1.2 AOP
 
+![AOP](xmind-image/AOPEnhance.png)
 
+#### 1.3 SpringBoot启动机制
 
-
-
-
+![SpringBoot-Starter](xmind-image/SpringBoot.png)
 
 #### 2.MyBatis
 
