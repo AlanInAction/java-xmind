@@ -80,7 +80,7 @@ Table of Contents
 
 ##### 2.1 SqlSessionFactory
 
-![SqlSessionFactory](xmind-image/SqlSessionFactoryTransform1.jpg)
+![SqlSessionFactory](xmind-image/SqlSessionFactory.png)
 
 ##### 2.2 SqlSession
 
